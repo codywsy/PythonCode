@@ -18,3 +18,4 @@ foo = open("foo.txt", "r")
 str = foo.read(2)
 print "读取的字符串是：".decode("utf8"), str
 foo.close()
+
